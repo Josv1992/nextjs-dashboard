@@ -7,6 +7,9 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
+    "@niledatabase/client": "^5.1.0",
+    "@niledatabase/react": "^5.1.0",
+    "@niledatabase/server": "^5.1.0",
     "@tailwindcss/forms": "^0.5.10",
     "autoprefixer": "10.4.20",
     "bcrypt": "^5.1.1",
